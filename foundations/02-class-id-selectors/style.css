@@ -1,0 +1,20 @@
+.oddnum {
+    background-color: rgba(231, 14, 2, 2);
+    font-family: "Dejavu sans", Verdana, Geneva, sans-serif;
+
+}
+
+#even {
+    background-color: #13d1ff;
+    font-size: 36px;
+}
+
+.oddnum-3rd {
+    font-size: 24px;
+}
+
+#four {
+    background-color: #afe513;
+    font-size: 24px;
+    font-weight: bold;
+}
